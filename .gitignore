@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+venv/
+chroma_db/
+*.gguf
+.ollama/
+.env
+.env.local
+.DS_Store
+.idea/
